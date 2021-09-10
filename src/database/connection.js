@@ -2,7 +2,7 @@ const {
     MongoClient
 } = require("mongodb")
 
-const uri = "mongodb+srv://furnit:fUrn1tD2tab4s3@cluster0.doqaz.mongodb.net/FurnitTeste?retryWrites=true&w=majority"
+const uri = ""
 const client = new MongoClient(uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
