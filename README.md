@@ -9,4 +9,4 @@ Para executar o projeto:
 ### `npm start`
 
 Cole a URI de conexão com o banco de dados no arquivo:
-####`./src/database/connection.js`
+`./src/database/connection.js`
