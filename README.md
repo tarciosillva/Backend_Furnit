@@ -2,11 +2,11 @@
 
 ## Available Scripts
 
-Para instalar as depedências do Projeto execute:
+1. Para instalar as depedências do Projeto execute:
 #### `npm install`
 
-Cole a URI de conexão com o banco de dados, informada em email, no arquivo:
+2. Cole a URI de conexão com o banco de dados, informada em email, no arquivo:
 `./src/database/connection.js`
 
-Para executar o projeto:
+3. Para executar o projeto:
 #### `npm start`
