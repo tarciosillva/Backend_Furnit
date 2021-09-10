@@ -2,7 +2,8 @@ const {
     MongoClient
 } = require("mongodb")
 
-const uri = ""
+/*Cole o link do endereço de conexão com o banco de dados na constante abaixo*/
+const uri = "/*link aqui*/"
 const client = new MongoClient(uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
